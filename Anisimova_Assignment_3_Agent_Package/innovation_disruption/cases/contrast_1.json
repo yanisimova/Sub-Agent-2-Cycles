@@ -1,0 +1,14 @@
+{
+  "emerging_technology": "Generative AI using large language models for text synthesis",
+  "industry_sector": "Management and analytical consulting",
+  "business_need": "Improve turnaround while preserving credible client analysis",
+  "users_stakeholders": "Consultants, partners, clients, reviewers and information-security staff",
+  "risk_consequence_context": "Unsupported claims, confidential information exposure and loss of client trust; no autonomous client advice",
+  "time_horizon": "Six-month evaluation; business-model exposure considered over 12\u201324 months",
+  "additional_context": "Constructed teaching scenario, not a factual account of an existing firm. No measured cost savings, demand or revenue outcomes are asserted.",
+  "intended_application": "Replace an existing LLM summarization tool with another LLM summarization tool",
+  "organization": "Firm B, a hypothetical consultancy with an established reviewed AI workflow",
+  "adoption_posture": "Conservative / risk-averse",
+  "capabilities_constraints": "Existing LLM workflow; fixed-fee advisory work; same reviewers, clients, service and channel; only modest usability improvement proposed",
+  "management_question": "Does this tool replacement materially change innovation significance or business-model exposure?"
+}

@@ -1,0 +1,8 @@
+Date: 2026-10-12 America/New_York
+Baseline commit: f42138abcb9e9c67c47fb8315128b5130f7d964c
+FROZEN CORE INTACT
+primary: prompt built; VALIDATION PASSED
+contrast_1: prompt built; VALIDATION PASSED
+contrast_2: prompt built; VALIDATION PASSED
+ambiguous: prompt built; VALIDATION PASSED
+ChatGPT/Codex reviewed the common packet and case contexts and revised saved responses in this conversation. No external API or independent model run was used. Structural validation does not prove analytical accuracy.
